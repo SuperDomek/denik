@@ -7,7 +7,7 @@ $smarty = SmartySingleton::instance();
 
 $smarty2 = SmartySingleton::instance();
 
-$smarty->assign('name', 'Dominik');
+$smarty->assign('name', 'visitor');
 
 $smarty->display('index.tpl');
 
