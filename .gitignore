@@ -1,3 +1,5 @@
 #obsah složek s dočasnými soubory
 cache/*
+!cache/
 templates_c/*
+!templates_c/
